@@ -1,2 +1,2 @@
-# Contoh-C-
+# Contoh-C- Diskon
 Kumpulan contoh program c++
